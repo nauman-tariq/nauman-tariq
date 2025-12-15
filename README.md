@@ -1,8 +1,19 @@
 # 👋 Hi, I'm Nauman Tariq
 
-🚀 **Full Stack Developer | Mobile & Web Apps | 4+ Years Experience**
+**Full Stack Developer | Mobile & Web Apps | 4+ Years Experience**
 
-I'm a passionate **software engineer** with experience in building scalable mobile and web applications. I enjoy solving real-world problems and writing clean, maintainable code.
+I’m a passionate Full-Stack Developer with 4+ years of experience building scalable web and mobile applications for startups, SMEs, and enterprises. I specialize in modern frontend frameworks, robust backend systems, cross-platform mobile apps, and SEO-driven digital solutions.
+
+Tech Highlights:
+
+Frontend: React, AngularJS, Vue.js, HTML, CSS, Bootstrap
+Backend: Node.js, PHP, Laravel, CodeIgniter
+Mobile: Flutter, React Native, Android & iOS
+Databases: MySQL, MongoDB
+SEO: On-page, Off-page & Local SEO
+
+I value clean code, clear communication, timely delivery, and client satisfaction.
+Let’s build something impactful together
 
 ---
 
