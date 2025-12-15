@@ -57,15 +57,23 @@ Let’s build something impactful together
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### Orukka by Monesave – Ring App
 **Tech:** Flutter Flow, Supabase, Node.js, Orukka, Stripe, Solidity 
 🔗 [View Repository](https://github.com/nauman-tariq/Monesave)
 
-### 🔹 Project Name
-**Tech:** Django, React  
-🔗 [View Repository](https://github.com/yourusername/projectname)
+### Muzz: Muslim Rishta & Marriage
+**Tech:** React Native, Node.js
+🔗 [View Repository](https://github.com/nauman-tariq/Muzz)
+
+### IGEC ( Education Consultancy )
+**Tech:** Flutter, Node.js, Firebase
+🔗 [View Repository](https://github.com/nauman-tariq/IGEC)
+
+### Airline Ticket Booking App
+**Tech:** React, Next.js, Firebase
+🔗 [View Repository](https://github.com/nauman-tariq/Airline)
 
 ---
 
