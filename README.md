@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nauman Tariq
+# Hi, I'm Nauman Tariq
 
 **Full Stack Developer | Mobile & Web Apps | 4+ Years Experience**
 
