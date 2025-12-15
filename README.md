@@ -6,15 +6,15 @@ I’m a passionate Full-Stack Developer with 4+ years of experience building sca
 
 Tech Highlights:
 
-**Frontend:** React, AngularJS, Vue.js, HTML, CSS, Bootstrap
+•**Frontend:** React, AngularJS, Vue.js, HTML, CSS, Bootstrap
 
-**Backend:** Node.js, PHP, Laravel, CodeIgniter
+•**Backend:** Node.js, PHP, Laravel, CodeIgniter
 
-**Mobile:** Flutter, React Native, Android & iOS
+•**Mobile:** Flutter, React Native, Android & iOS
 
-**Databases:** MySQL, MongoDB
+•**Databases:** MySQL, MongoDB
 
-**SEO:** On-page, Off-page & Local SEO
+•**SEO:** On-page, Off-page & Local SEO
 
 I value clean code, clear communication, timely delivery, and client satisfaction.
 Let’s build something impactful together
