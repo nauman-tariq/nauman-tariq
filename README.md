@@ -23,12 +23,21 @@ Let’s build something impactful together
 
 ## 🧑‍💻 About Me
 
-- 🎓 Bachelor's in Software Engineering  
-- 💼 4+ years of professional development experience  
-- 🌍 Worked with local & international clients  
-- 📱 Mobile Apps (Flutter / Android / iOS)  
-- 🌐 Web Apps (Frontend & Backend)  
-- 🧠 Strong focus on clean architecture & performance  
+Bachelor’s degree in Software Engineering
+
+4+ years of professional development experience
+
+Top-rated freelance developer with strong client retention
+
+Experience with web, mobile, AI, and data-driven applications
+
+Worked with local and international clients, including large tech-focused organizations
+
+Hands-on experience in AI, data science, and technical research
+
+Focus on clean architecture, scalability, and performance
+
+Strong communication and full-cycle development support
 
 ---
 
