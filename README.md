@@ -75,8 +75,6 @@ Let’s build something impactful together
 
 # GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nauman-tariq&show_icons=true&count_private=true&theme=radical)
-
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nauman-tariq&layout=compact&theme=radical)
 
 ---
