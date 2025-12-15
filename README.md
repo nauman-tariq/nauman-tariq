@@ -73,7 +73,7 @@ Let’s build something impactful together
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nauman-tariq&show_icons=true&count_private=true&theme=radical)
 
