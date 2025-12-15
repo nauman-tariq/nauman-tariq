@@ -72,7 +72,7 @@ Let’s build something impactful together
 🔗 [View Repository](https://github.com/nauman-tariq/IGEC)
 
 ### Airline Ticket Booking App
-**Tech:** React, Next.js, Firebase
+**Tech:** Next.js
 🔗 [View Repository](https://github.com/nauman-tariq/Airline)
 
 ---
