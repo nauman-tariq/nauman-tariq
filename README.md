@@ -23,21 +23,21 @@ Let’s build something impactful together
 
 ## 🧑‍💻 About Me
 
-Bachelor’s degree in Software Engineering
+• Bachelor’s degree in Software Engineering
 
-4+ years of professional development experience
+• 4+ years of professional development experience
 
-Top-rated freelance developer with strong client retention
+• Top-rated freelance developer with strong client retention
 
-Experience with web, mobile, AI, and data-driven applications
+• Experience with web, mobile, AI, and data-driven applications
 
-Worked with local and international clients, including large tech-focused organizations
+• Worked with local and international clients, including large tech-focused organizations
 
-Hands-on experience in AI, data science, and technical research
+• Hands-on experience in AI, data science, and technical research
 
-Focus on clean architecture, scalability, and performance
+• Focus on clean architecture, scalability, and performance
 
-Strong communication and full-cycle development support
+• Strong communication and full-cycle development support
 
 ---
 
