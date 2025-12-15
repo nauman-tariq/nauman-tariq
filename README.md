@@ -59,9 +59,9 @@ Let’s build something impactful together
 
 ## 📌 Featured Projects
 
-### 🔹 Project Name
-**Tech:** Flutter, Firebase  
-🔗 [View Repository](https://github.com/yourusername/projectname)
+### Orukka by Monesave – Ring App
+**Tech:** Flutter Flow, Supabase, Node.js, Orukka, Stripe, Solidity 
+🔗 [View Repository](https://github.com/nauman-tariq/Monesave)
 
 ### 🔹 Project Name
 **Tech:** Django, React  
