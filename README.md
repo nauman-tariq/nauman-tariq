@@ -77,6 +77,9 @@ Let’s build something impactful together
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nauman-tariq&layout=compact&theme=radical)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nauman-tariq&theme=radical)
+
+
 ---
 
 ## Connect With Me
