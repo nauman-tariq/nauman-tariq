@@ -75,10 +75,8 @@ Let’s build something impactful together
 
 ## 📫 Connect With Me
 
-- 📧 Email: your@email.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🌐 Portfolio: https://yourwebsite.com  
+- 📧 Email: noumantariq477@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/naumantariqdev/
+- 🌐 Portfolio: https://appsustain.web.app
 
 ---
-
-⭐ *Feel free to explore my repositories and give a star if you like my work!*
