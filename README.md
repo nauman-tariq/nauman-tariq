@@ -73,10 +73,18 @@ Let’s build something impactful together
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-- 📧 Email: noumantariq477@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/naumantariqdev/
-- 🌐 Portfolio: https://appsustain.web.app
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
+## Connect With Me
+
+- Email: noumantariq477@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/naumantariqdev/
+- Portfolio: https://appsustain.web.app
 
 ---
