@@ -21,7 +21,7 @@ Let’s build something impactful together
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 • Bachelor’s degree in **Software Engineering**
 
