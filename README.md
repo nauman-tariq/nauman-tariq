@@ -73,12 +73,6 @@ Let’s build something impactful together
 
 ---
 
-# GitHub Stats
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nauman-tariq&layout=compact&theme=radical)
-
----
-
 ## Connect With Me
 
 - Email: noumantariq477@gmail.com  
